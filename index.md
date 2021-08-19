@@ -12,19 +12,15 @@ of my Department was 85% in Board Examination.I also handle the Discipline Comit
 <br>
  ![alt text](punjab.png)
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+# Project 2: Superior Group Of Colleges (2013-18)
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+I worked as Head of Department(URDU) in Superior Group of Colleges lahore. Here I got the best Teacher Award in 2014. Also got the Appreciation award in 2015 and 2016. The percentage of my Department was 82% in Board Examination.I also worked as a Examination Controller here.
+<br>
  ![alt text](superior.png)
  
- # [Project 3: Crypto Trading Bot](http://youtube.com/dataprofessor)
+ # Project 3: Saqara School and Academy (2010-13)
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+I started my career of teaching here as a Urdu teacher. I spend my four years here as a Teacher. Here I also worked as a vice principle .In here ,I controll all management systems of that School
+<br>
  ![alt text](superior.png)
  
