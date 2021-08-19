@@ -20,7 +20,7 @@ I worked as Head of Department(URDU) in Superior Group of Colleges lahore. Here 
  
  # Saqara School and Academy (2010-13)
 
-I started my career of teaching here as a Urdu teacher. I spend my four years here as a Teacher. Here I also worked as a vice principle .In here ,I controll all management systems of that School
+I started my career of teaching here as a Urdu teacher. I spend my four years here as a Teacher. Here I also worked as a vice principle .In here ,I controll all management systems of that School.
 <br>
  ![alt text](superior.png)
  
