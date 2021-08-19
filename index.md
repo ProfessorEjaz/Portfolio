@@ -5,6 +5,11 @@
 # Education
 * Master in Urdu, Punjab University, 2014-15
 
+# Contact
+ <b>Email         </b> linq2ejaz@gmail.com
+ <b>Phone Number  </b> * +92 346 6170920
+                       * +92 308 6070920
+
 # Aspire Group Of Colleges(2021)
 
 I worked as Head of Department(URDU) and Management Committe of Aspire Group of Colleges  in Basirpur. I start working here in 2021. Here I have to handle the Urdu Department as well as Management of College
