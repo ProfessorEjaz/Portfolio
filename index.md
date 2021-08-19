@@ -8,7 +8,7 @@
 # Contact
  <b>Email   :      </b> linq2ejaz@gmail.com <br>
  <b>Phone Number : </b>  +92 346 6170920 <br>
- <p>                       +92 308 6070920</p>
+ <p>                                         +92 308 6070920</p>
 
 # Aspire Group Of Colleges(2021)
 
