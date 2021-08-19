@@ -11,6 +11,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
+* ![alt text](punjab.png)
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 
@@ -18,3 +19,4 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
 * **Output:** Trading signals triggers buying and selling
+* ![alt text](superior.png)
