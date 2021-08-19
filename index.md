@@ -1,5 +1,5 @@
 # Professor Ejaz Ahmed
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+*Urdu Professor*
 
 # Education
 * Master in Urdu, Punjab University, 2014-15
