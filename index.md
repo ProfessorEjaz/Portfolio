@@ -2,8 +2,7 @@
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Master in Urdu, Punjab University, 2014-15
 
 # [Project 1: Punjab Group Of Colleges(2018-2020)]
 
