@@ -1,4 +1,4 @@
-# John Doe
+# Professor Ejaz Ahmed
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
