@@ -1,5 +1,6 @@
 # Professor Ejaz Ahmed
 *Urdu Professor*
+ ![alt text](Profile.jpeg)
 
 # Education
 * Master in Urdu, Punjab University, 2014-15
